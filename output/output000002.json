@@ -1,0 +1,9 @@
+{
+    "created_at": "2024-05-27 14:09:01 UTC",
+    "startTime": 43500,
+    "eventNumber": 2,
+    "eventDuration": 18745,
+    "maxSensorValue": 699,
+    "averageSensorValue": 501,
+    "endTime": 62245
+}
